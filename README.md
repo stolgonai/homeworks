@@ -20,5 +20,5 @@ This is a repository for Homeworks.
    - `git commit -m"your message"`
    - `git push origin master`
 
-5. **Then from your github master open PULL REQUEST to /your username/ branch in seytechcool/homeworks repository**
+5. **Then from your github master open PULL REQUEST seytechchool/homeworks upstream**
    - Ex: `seytechschool/homeworks, base:your-username <- your-username/homeworks, base:master`
