@@ -1,3 +1,3 @@
-# Welcome to Seytech Homeworks
-This is a repository for homeworks.
-</br>
+#### Each folder consists of one JavaScript class.
+
+- Do one class at a time.

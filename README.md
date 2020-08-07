@@ -17,8 +17,8 @@ This is a repository for Homeworks.
 4. You have 2 options to submit homeworks.
 
    1. Modify `homework.yml` with your homework url
-   2. Do your homework on provided index.html and script.js
-   3. Note: 1. way is preferred.
+   2. OR do your homework on provided index.html and script.js files
+   3. Tip: modifying homeworks.yml file is preferred to us.
 
 5. **After you finish your homework push it to your github master branch**
 
