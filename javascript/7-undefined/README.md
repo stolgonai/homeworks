@@ -1,4 +1,4 @@
-# JavaScript Homeworks from Class 4
+# JavaScript Homeworks from Class 7
 
 ### Display the position of the first occurrence of "World" in the variable txt
 

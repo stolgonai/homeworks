@@ -1,4 +1,4 @@
-# JavaScript Homeworks from Class 4
+# JavaScript Homeworks from Class 5
 
 ### Create these functions
 
