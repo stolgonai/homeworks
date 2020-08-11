@@ -17,8 +17,7 @@ This is a repository for Homeworks.
 4. You have 2 options to submit homeworks.
 
    1. Modify `homework.yml` with your homework url
-   2. **OR** do your homework on provided index.html and script.js files
-   3. **Tip**: modifying homeworks.yml file is preferred to us.
+   2. **OR** do your homework on provided index.html and script.js files inside each folder
 
 5. **After you finish your homework push it to your github master branch**
 
@@ -26,5 +25,5 @@ This is a repository for Homeworks.
    - `git commit -m"your message"`
    - `git push origin master`
 
-6. **Then from your github master open PULL REQUEST seytechchool/homeworks upstream**
+6. **Then from your github master open PULL REQUEST seytechchool/homeworks upstream to your username branch**
    - Ex: `seytechschool/homeworks, base:your-username <- your-username/homeworks, base:master`
