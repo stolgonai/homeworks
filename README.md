@@ -38,3 +38,6 @@ names:
 * dom
 * data-types
 * methods
+
+
+* Each Class homeworks need to have a new pull request.
