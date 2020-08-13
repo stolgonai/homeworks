@@ -14,16 +14,27 @@ This is a repository for Homeworks.
 
    - `cd homeworks`
 
-4. You have 2 options to submit homeworks.
+4. Create a branch based on class
 
-   1. Modify `homework.yml` with your homework url
-   2. **OR** do your homework on provided index.html and script.js files inside each folder
+   1. create a branch [class]-[username]     sample: intro-to-js-ulanbak
 
 5. **After you finish your homework push it to your github master branch**
 
    - `git add --all`
-   - `git commit -m"your message"`
-   - `git push origin master`
+   - `git commit -m "your message"`
+   - `git push`
 
 6. **Then from your github master open PULL REQUEST seytechchool/homeworks upstream to your username branch**
    - Ex: `seytechschool/homeworks, base:your-username <- your-username/homeworks, base:master`
+
+7. Start doing same thing for other classes
+
+
+
+names:
+* intro-to-js
+* functions
+* loops
+* dom
+* data-types
+* methods
