@@ -22,7 +22,7 @@ This is a repository for Homeworks.
 
    - `git add --all`
    - `git commit -m "your message"`
-   - `git push`
+   - `git push --set-upstream origin intro-to-js-[username]`
 
 6. **Then from your github master open PULL REQUEST seytechchool/homeworks upstream to your username branch**
    - Ex: `seytechschool/homeworks, base:your-username <- your-username/homeworks, base:master`
