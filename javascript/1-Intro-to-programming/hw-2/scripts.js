@@ -1,4 +1,5 @@
 // Your JS code is here
+
 var currentYear = 2020;
 var birthYear = 2011;
 var possibleAge1 = currentYear - birthYear;
