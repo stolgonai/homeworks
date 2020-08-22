@@ -149,4 +149,18 @@ function findEven(arr){
   let arrCollection4 = [1, 2, 3, 8, 9]
   isSameType(arrCollection4)
   
-//  i did not finished yet the las exercise
+
+function gcd(num1, num2){
+ let init = num1;
+ if(num1 > num2){
+   init = num2
+ }
+ for(let i = init; i > 0; i--){
+   if(num1 % i === 0 && num2 % i === 0){
+     return i
+   }
+ }
+
+}
+gcd(90, 6)
+gcd(6, 90)
