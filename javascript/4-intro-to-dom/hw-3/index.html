@@ -3,11 +3,54 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="style.css" />
+    <style>
+      * {
+  text-align: center;
+}
+.allBooks {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.books__column,
+.oneBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+.done-books {
+  border-right: 1px solid #aaa;
+}
+
+img.bookCover {
+  width: 200px;
+  cursor: pointer;
+}
+
+a.title {
+  font-weight: bolder;
+  font-size: 20px;
+  margin: 0;
+}
+
+p.author {
+  margin-top: 0px;
+}
+
+    </style>
     <title>JavaScript Homeworks - Intro To Dom</title>
   </head>
   <body>
-    <!-- Your code is here -->
+    
+    <h1>My Book List</h1>
+
+    <div class="allBooks">
+      <h1>Already Read Books</h1>
+      <h1>Not read yet</h1>
+      <section class="books__column done-books"></section>
+
+      <section class="books__column todo-books"></section>
+    </div>
 
     <script src="scripts.js"></script>
   </body>
